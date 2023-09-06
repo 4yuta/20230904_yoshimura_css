@@ -1,13 +1,14 @@
 .header__left {
     display: inline-block;
+    font-size: 25px;
     padding-left: 24px;
     margin-top: 8px;
-    font-weight: bold;
     color: navy;
 }
 
 .header__right {
     float: right;
+    margin-top: 8px;
     font-weight: bold;
     color: navy;
 }
@@ -19,20 +20,20 @@ li {
 
 .firstview {
     float: right;
-    margin-top: 86px;
-    width: 680px;
-    height: 452px;
+    margin-top: 15vh;
+    width: 50vw;
+    height: 60vh;
 }
 
 .content {
     font-size: 65px;
-    padding-top: 389px;
+    padding-top: 55vh;
     margin: auto;
     line-height: 55px;
 }
 
 .box {
-    width: 1010px;
-    height: 188px;
+    width: 80vw;
+    height: 25vh;
     background-color: navy;
 }
